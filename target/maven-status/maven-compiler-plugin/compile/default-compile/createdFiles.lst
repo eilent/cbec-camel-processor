@@ -1,0 +1,9 @@
+com\enterprise\msg\route\EnterpriseMsgRoute.class
+com\enterprise\msg\util\RabbitMqSenderUtil.class
+com\enterprise\msg\manager\EnterpriseMsgManager.class
+com\enterprise\msg\api\EnterpriseMessageRequest.class
+com\enterprise\msg\constant\RabbitMQConstants.class
+com\enterprise\msg\manager\EnterpriseQueueManager.class
+com\enterprise\msg\util\XmlParserUtil.class
+com\enterprise\msg\CbecCamelProcessor.class
+com\enterprise\msg\api\RouteManagerController.class
